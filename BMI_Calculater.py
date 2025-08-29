@@ -28,6 +28,3 @@ height = input("Your height => ")
 bmi = BMI()
 bmi.height_update(height)
 print(f"YOUR BMI: {bmi.calculate_bmi(weight)}")
-
-
-
